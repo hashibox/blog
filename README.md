@@ -1,10 +1,6 @@
----
-cover: .gitbook/assets/linkedin_banner_image_1.png
-coverY: 0
----
+# Home
 
-# Welcome!
+가능하면 매일 매일 조금씩 도움이 되는 정보를 공유해보자!
 
-## Welcome aboard!
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+
